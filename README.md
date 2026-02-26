@@ -1,5 +1,5 @@
 # Devops
-Colaboração entre o dev e a equipe de operações para acelerar a entraga do software <br>
+Colaboração entre o dev e a equipe de operações para acelerar a entrega do software <br>
 
 # SRE
-Resolven incidentes e desenvolven automações para evitar falhas no software
+Resolvem incidentes e desenvolvem automações para evitar falhas no software
